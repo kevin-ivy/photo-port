@@ -1,8 +1,8 @@
 {
+  "homepage": "https://kevin-ivy.github.io/photo-port",
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kevin-ivy.github.io/photo-port",
   "dependencies": {
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
